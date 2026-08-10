@@ -16,5 +16,10 @@
 // console.log(constPI);
 // let a ;
 // console.log(a);
-let x = 10;
-console.log(x);
+// let x = 10;
+// console.log(x);
+const student = {
+    name:meerab,
+    age:22,
+    isPass:true
+}
