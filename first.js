@@ -5,4 +5,6 @@ console.log(isFollow);
 isPassword = false;
 console.log(isPassword);
 let fullName = "tony starch";
+let age = 30;
 console.log(fullName);
+console.log(age);
