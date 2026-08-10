@@ -23,9 +23,15 @@
 //     age:22,
 //     isPass:true
 // }
-const product = {
-    name: "laptop",
-    price: 2000,
-    color: "black",
-    rating: 4.5,
+// const product = {
+//     name: "laptop",
+//     price: 2000,
+//     color: "black",
+//     rating: 4.5,
+// }
+const profile = {
+    name: "tony starch",
+    isFollow: true,
+    followers: 1000,
+    following: 500
 }
