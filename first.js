@@ -18,8 +18,14 @@
 // console.log(a);
 // let x = 10;
 // console.log(x);
-const student = {
-    name:meerab,
-    age:22,
-    isPass:true
+// const student = {
+//     name:meerab,
+//     age:22,
+//     isPass:true
+// }
+const product = {
+    name: "laptop",
+    price: 2000,
+    color: "black",
+    rating: 4.5,
 }
