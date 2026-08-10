@@ -32,6 +32,6 @@
 const profile = {
     name: "tony starch",
     isFollow: true,
-    followers: 1000,
+    followers: 10000,
     following: 500
 }
