@@ -8,3 +8,7 @@ let fullName = "tony starch";
 let age = 30;
 console.log(fullName);
 console.log(age);
+let age = 23;
+age = 24;
+age = 25;
+console.log(age);
