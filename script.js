@@ -25,14 +25,14 @@
 // console.log("a =",a);
 
 //comparison operators
-let a = 10;
-let b = 3;
-console.log("10 <= 3" , a <= b); 
+// let a = 10;
+// let b = 3;
+// console.log("10 <= 3" , a <= b); 
 //logical operators are true or false
 //&& operator
-let x = 10;
-let y = 5;  
-conole.log("x > y && x < y",x > y && x < y);
+// let x = 10;
+// let y = 5;  
+// conole.log("x > y && x < y",x > y && x < y);
 
 let a = 2;
 let b = 12;
