@@ -19,7 +19,12 @@
 // console.log("a =",a);
 
 //assignment operators
-let a = 5;
-let b = 2;
-a **= 4;
-console.log("a =",a);
+// let a = 5;
+// let b = 2;
+// a **= 4;
+// console.log("a =",a);
+
+//comparison operators
+let a = 10;
+let b = 20;
+console.log(10 == 20 & a == b); 
