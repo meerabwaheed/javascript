@@ -37,5 +37,5 @@
 let a = 2;
 let b = 12;
 let cond1 = a >= b;
-let cond2 = a === b;
+let cond2 = a === 6;
 console.log("cond1 && cond2", cond1 && cond2);
