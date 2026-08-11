@@ -57,7 +57,7 @@
 //     console.log("you are not eligible for voting");
 // }
 
-let mode = dark;
+let mode = "dark";
 let color;
 if(mode === "dark"){
     color = "black";
