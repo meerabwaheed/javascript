@@ -41,10 +41,18 @@
 // console.log("cond1 && cond2", cond1 && cond2);
 
 //logical OR || operator
-let a = 6;
-let b = 5;
-let cond1 = a <= b;
-let cond2 = a === b;
-console.log("cond1 || cond2", cond1 || cond2);
-//logical NOT ! operator
-console.log("cond1 != cond2", cond1 != cond2);
+// let a = 6;
+// let b = 5;
+// let cond1 = a <= b;
+// let cond2 = a === b;
+// console.log("cond1 || cond2", cond1 || cond2);
+// //logical NOT ! operator
+// console.log("cond1 != cond2", cond1 != cond2);
+
+//conditional statements
+let age = 18;
+if(age >= 18){
+console.log("you are eligible for voting");
+}else{
+    console.log("you are not eligible for voting");
+}
