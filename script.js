@@ -76,4 +76,4 @@
 // let age = 25;
 // age >= 18 ? console.log("you are adult"): console.log(" you are not adult");
 
-alert("hello world");//one time popup
+alert("hell0o world");//one time popup
