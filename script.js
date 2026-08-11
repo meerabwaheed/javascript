@@ -74,4 +74,4 @@
 // }
 
 let age = 25;
-age >= 18 ? "adult": "not adult";
+age >= 18 ? console.log("you are adult"): console.log(" you are not adult");
