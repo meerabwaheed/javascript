@@ -15,5 +15,5 @@ console.log("a ** b = " + (a ** b));
 let x = 10;
 let y = 5;
 console.log("x =",x,"& y =",y);
-a = a + 1;
+a = a - 1;
 console.log("a =",a);
