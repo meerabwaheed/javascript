@@ -54,15 +54,21 @@
 // if(age >= 18){
 // console.log("you are eligible for voting");
 // }else{
-//     console.log("you are not eligible for voting");
+// //     console.log("you are not eligible for voting");
+// // }
+
+// let mode = "dark";
+// let color;
+// if(mode === "dark"){
+//     color = "black";
+// }
+// else{
+//     color = "white";
 // }
 
-let mode = "dark";
-let color;
-if(mode === "dark"){
-    color = "black";
+let num = 4;
+if(num % 2 === 0){
+    console.log(num + " is even number");
+}else{
+    console.log(num + " is odd number");
 }
-else(mode === "light"){
-    color = "white";
-}
-console.log("color is", color);
