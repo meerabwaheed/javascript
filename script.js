@@ -66,9 +66,12 @@
 //     color = "white";
 // }
 
-let num = 4;
-if(num % 2 === 0){
-    console.log(num + " is even number");
-}else{
-    console.log(num + " is odd number");
-}
+// let num = 4;
+// if(num % 2 === 0){
+//     console.log(num + " is even number");
+// }else{
+//     console.log(num + " is odd number");
+// }
+
+let age = 25;
+age >= 18 ? "adult": "not adult";
