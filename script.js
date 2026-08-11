@@ -76,4 +76,5 @@
 // let age = 25;
 // age >= 18 ? console.log("you are adult"): console.log(" you are not adult");
 
-alert("hell0o world");//one time popup
+// alert("hell0o world");//one time popup
+prompt("what is your name?");//one time popup with input
