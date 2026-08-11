@@ -27,4 +27,4 @@
 //comparison operators
 let a = 10;
 let b = 3;
-console.log("10 >= 3" , a >= b); 
+console.log("10 <= 3" , a <= b); 
