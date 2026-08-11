@@ -62,7 +62,7 @@ let color;
 if(mode === "dark"){
     color = "black";
 }
-if(mode === "light"){
+else(mode === "light"){
     color = "white";
 }
 console.log("color is", color);
