@@ -83,7 +83,7 @@ console.log("congratulations yo entered the correct number:");
 
 
 let str = "meerab";
-console.log(str[3]);
+console.log(str[4]);
 
 let specialString = (`this is called template literals`);
 console.log(typeof specialString);
