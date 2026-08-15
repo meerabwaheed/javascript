@@ -35,10 +35,56 @@
 //     followers: 10000,
 //     following: 500
 // }
-let num = prompt("enter a number"){
-    if(num % 2 === 0){
-        console.log(num + " is multiple of 5");
-    }else{
-        console.log(num + " is not multiple of 5");
-    }
+
+// let score = 75;
+// let grade;
+// if (score >= 90 && score <= 100){
+//     grade = "A";
+// }else if(score >=80 && score <= 89){
+//     grade = "B";
+// }else if(score >=70 && score <= 79){
+//     grade = "C";
+// }else if(score >=60 && score <= 69){
+//     grade = "D";
+// }else (score >=0 && score <= 59){
+//     grade = "F";
+// }
+
+// console.log("your grade is:", grade);
+// //calculate sum of loop from 1 to 5
+// for(let i =1; i <=5 ; i++){
+//     console.log("i =",i);
+// }
+// let i = 1;
+// while(i <= 5){
+//     console.log("i =",i);
+//     i++;
+// }
+
+// let i = 20;
+// do{
+//     console.log("i =",i);
+//     i++;
+// }while(i <= 10);
+
+// //print even numbers from 1 to 100
+// for(let num = 1; num <=100 ;num++){
+//     num % 2 === 0{
+//    console.log(num);
+//     }
+// } 
+
+let gameNum = 90;
+let userNum = prompt("guess the correct number:");
+while(gameNum != userNum){
+    userNum = prompt("you entered wrong number.guess again:");
 }
+console.log("congratulations yo entered the correct number:");
+
+
+
+
+
+
+
+
