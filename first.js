@@ -82,9 +82,11 @@ while(gameNum != userNum){
 console.log("congratulations yo entered the correct number:");
 
 
+let str = "meerab";
+console.log(str[3]);
 
-
-
+let specialString = (`this is called template literals`);
+console.log(typeof specialString);
 
 
 
