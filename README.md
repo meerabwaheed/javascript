@@ -73,7 +73,7 @@ while(i <= 5){
     i++;
 }
 
-let i = 20;
+let i = 10;
 do{
     console.log("i =",i);
     i++;
