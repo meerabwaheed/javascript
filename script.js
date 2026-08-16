@@ -50,12 +50,12 @@
 // console.log("cond1 != cond2", cond1 != cond2);
 
 //conditional statements
-// let age = 18;
-// if(age >= 18){
-// console.log("you are eligible for voting");
-// }else{
-// //     console.log("you are not eligible for voting");
-// // }
+let age = 18;
+if(age >= 18){
+console.log("you are eligible for voting");
+}else{
+//     console.log("you are not eligible for voting");
+// }
 
 // let mode = "dark";
 // let color;
