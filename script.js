@@ -6,12 +6,12 @@
 // console.log("a + b = " + c);
 // console.log("a - b = " + (a - b));
 // console.log("a =",a ,"& b =",b);
-// console.log("a * b = " + (a * b));
+// console.log("a * b = " + (a * b));/
 // console.log("a / b = " + (a / b));
 // console.log("a % b = " + (a % b));
 // console.log("a % b = " + (a % b));
 // console.log("a ** b = " + (a ** b));
-//unary operators
+// unary operators
 // let x = 10;
 // let y = 5;
 // console.log("x =",x,"& y =",y);
@@ -41,11 +41,11 @@
 // console.log("cond1 && cond2", cond1 && cond2);
 
 //logical OR || operator
-let a = 6;
-let b = 5;
-let cond1 = a <= b;
-let cond2 = a === b;
-console.log("cond1 || cond2", cond1 || cond2);
+// let a = 6;
+// let b = 5;
+// let cond1 = a <= b;
+// let cond2 = a === b;
+// console.log("cond1 || cond2", cond1 || cond2);
 //logical NOT ! operator
 // console.log("cond1 != cond2", cond1 != cond2);
 
@@ -84,12 +84,12 @@ console.log("cond1 || cond2", cond1 || cond2);
 // console.log(newStr);
 // let str = "      meer raj   umar";
 // console.log(str.trim());
-//  let fullName =prompt ("enter your full name without spaces:");
-//  let userName = "@" + fullName + fullName.length;
-//  conosle.log(userName);
-// let marks = [1,2,3,4,5];
-// console.log(marks);
-// console.log(marks.length);
+ let fullName =prompt ("enter your full name without spaces:");
+ let userName = "@" + fullName + fullName.length;
+ conosle.log(userName);
+let marks = [1,2,3,4,5];
+console.log(marks);
+console.log(marks.length);
 
 // let heroes = ["ironman","umar","spiderman","batsman"];
 // console.log(heroes);
