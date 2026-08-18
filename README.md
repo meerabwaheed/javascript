@@ -1,5 +1,5 @@
 let num1 = 10;
-let num2 = 5;
+let num2 = 15;
 
 let sum = num1 + num2;
 let difference = num1 - num2;
@@ -48,7 +48,7 @@ const profile = {
     following: 500
 }
 
-let score = 75;
+let score = 85;
 let grade;
 if (score >= 90 && score <= 100){
     grade = "A";
