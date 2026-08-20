@@ -28,7 +28,7 @@ constPI = 3.14;
 console.log(constPI);
 let a ;
 console.log(a);
-let x = 10;
+let x = 20;
 console.log(x);
 const student = {
     name:meerab,
