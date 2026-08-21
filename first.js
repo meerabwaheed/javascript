@@ -146,3 +146,8 @@
 // let strNum = "250";
 // let num = Number(strNum);
 // console.log(num + 50); // Output: 300
+//Take a user's age and calculate their birth year.
+let userAge = 26;
+let currentYear = 2026;
+let birthYear = currentYear - userAge;
+console.log("Your birth year is:", birthYear);
