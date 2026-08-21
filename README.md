@@ -85,3 +85,29 @@ for(let num = 1; num <=100 ;num++){
    console.log(num);
     }
 } 
+funtions
+function myFunction(){
+    console.log("my name is meerab");
+    console.log("i'm learning js");
+}
+myFunction();
+
+function hellFunction(x,y){
+   s = x + y;
+   return s;
+}
+let val = hellFunction(2,3);
+console.log(val);
+sum function
+function sum(a,b){
+    return a + b;
+}
+//multiplication function
+function mul(a,b){
+    return a * b;
+}
+//arrow function
+
+const arrowMultiplication = (a,b) => {
+    console.log( a * b);
+}
