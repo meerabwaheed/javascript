@@ -111,3 +111,29 @@ function mul(a,b){
 const arrowMultiplication = (a,b) => {
     console.log( a * b);
 }
+// Create variables for your name, age, and city and print them.
+
+let name  = "John Doe";
+let age = 28;
+let City = "New York";
+console.log(name,age,City);
+// Create variables using let, const, and var. Explain the difference through a small example.
+let city = "Los Angeles"; // 'let' allows you to declare a variable that can be reassigned later.
+const country = "USA"; // 'const' declares a variable that cannot be reassigned after its initial assignment.
+var state = "California"; // 'var' is function-scoped and can be redeclared and reassigned, but it's generally discouraged in modern JavaScript.
+console.log(city, country, state);
+// Swap the values of two variables without using a third variable.
+let a = 5;
+let b = 10;
+console.log("before swapping: a =", a, "b =", b);
+a= a + b;
+// Given a value, determine whether it is a string, number, boolean, undefined, null, or object.
+let Name = "john";
+console.log(typeof Name);
+let Age = 30;
+console.log(typeof Age);
+let isStudent = true;
+// Create a program that converts a string containing a number like "250" into a number and performs arithmetic on it.
+let strNum = "250";
+let num = Number(strNum);
+console.log(num + 50); // Output: 300
