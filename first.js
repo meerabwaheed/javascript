@@ -151,3 +151,7 @@ let userAge = 26;
 let currentYear = 2026;
 let birthYear = currentYear - userAge;
 console.log("Your birth year is:", birthYear);
+//Convert Celsius to Fahrenheit.
+let celsius = 25;
+let fahrenheit = (celsius *9/5) + 32;
+console.log("Temperature in Fahrenheit:", fahrenheit);
