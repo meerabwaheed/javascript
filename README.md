@@ -1,5 +1,5 @@
 let num1 = 10;
-let num2 = 15;
+let num2 = 25;
 
 let sum = num1 + num2;
 let difference = num1 - num2;
@@ -28,7 +28,7 @@ constPI = 3.14;
 console.log(constPI);
 let a ;
 console.log(a);
-let x = 10;
+let x = 20;
 console.log(x);
 const student = {
     name:meerab,
