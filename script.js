@@ -84,12 +84,12 @@
 // console.log(newStr);
 // let str = "      meer raj   umar";
 // console.log(str.trim());
- let fullName =prompt ("enter your full name without spaces:");
- let userName = "@" + fullName + fullName.length;
- conosle.log(userName);
-let marks = [1,2,3,4,5];
-console.log(marks);
-console.log(marks.length);
+//  let fullName =prompt ("enter your full name without spaces:");
+//  let userName = "@" + fullName + fullName.length;
+//  conosle.log(userName);
+// let marks = [1,2,3,4,5];
+// console.log(marks);
+// console.log(marks.length);
 
 // let heroes = ["ironman","umar","spiderman","batsman"];
 // console.log(heroes);

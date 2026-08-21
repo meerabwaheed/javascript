@@ -74,19 +74,25 @@
 //     }
 // } 
 
-let gameNum = 90;
-let userNum = prompt("guess the correct number:");
-while(gameNum != userNum){
-    userNum = prompt("you entered wrong number.guess again:");
+// let gameNum = 90;
+// let userNum = prompt("guess the correct number:");
+// while(gameNum != userNum){
+//     userNum = prompt("you entered wrong number.guess again:");
+// }
+// console.log("congratulations yo entered the correct number:");
+
+
+// let str = "meerab";
+// console.log(str[4]);
+
+// let specialString = (`this is called template literals`);
+// console.log(typeof specialString);
+
+
+
+//funtions
+function myFunction(){
+    console.log("my name is meerab");
+    console.log("i'm learning js");
 }
-console.log("congratulations yo entered the correct number:");
-
-
-let str = "meerab";
-console.log(str[4]);
-
-let specialString = (`this is called template literals`);
-console.log(typeof specialString);
-
-
-
+myFunction();
