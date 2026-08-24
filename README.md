@@ -48,7 +48,7 @@ const profile = {
     following: 500
 }
 
-let score = 85;
+let score = 87;
 let grade;
 if (score >= 90 && score <= 100){
     grade = "A";
