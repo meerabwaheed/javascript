@@ -37,7 +37,7 @@ const student = {
 }
 const product = {
     name: "laptop",
-    price: 2000,
+    price: 20000,
     color: "black",
     rating: 4.5,
 }
