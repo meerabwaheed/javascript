@@ -130,7 +130,7 @@ a= a + b;
 // Given a value, determine whether it is a string, number, boolean, undefined, null, or object.
 let Name = "john";
 console.log(typeof Name);
-let Age = 30;
+let Age = 40;
 console.log(typeof Age);
 let isStudent = true;
 // Create a program that converts a string containing a number like "250" into a number and performs arithmetic on it.
