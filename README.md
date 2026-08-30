@@ -23,6 +23,7 @@ console.log(age);
 let age = 26;
 age = 24;
 age = 25;
+age = 24;
 console.log(age);
 constPI = 3.14;
 console.log(constPI);
