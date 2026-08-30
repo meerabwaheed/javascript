@@ -17,7 +17,7 @@ console.log(isFollow);
 isPassword = false;
 console.log(isPassword);
 let fullName = "tony starch";
-let age = 30;
+let age = 32;
 console.log(fullName);
 console.log(age);
 let age = 26;
