@@ -138,3 +138,5 @@ let isStudent = true;
 let strNum = "250";
 let num = Number(strNum);
 console.log(num + 50); // Output: 300
+let name ;
+console.log(name);
