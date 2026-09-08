@@ -1,5 +1,5 @@
 let num1 = 50;
-let num2 = 25;
+let num2 = 35;
 
 let sum = num1 + num2;
 let difference = num1 - num2;
