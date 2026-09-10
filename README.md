@@ -21,7 +21,7 @@ let age = 32;
 console.log(fullName);
 console.log(age);
 let age = 26;
-age = 24;
+age = 28;
 age = 25;
 age = 24;
 console.log(age);
