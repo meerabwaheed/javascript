@@ -151,3 +151,13 @@ setTimeout(() => {
 }, 2000); // 2000 = 2 second
 console.log("three");
 console.log("four");
+let age = 18;
+if(age >= 18){
+    if(age >= 21){
+        console.log("aged");
+    }else{
+        console.log("middle");
+    }
+}else{
+    console.log("child");
+}
