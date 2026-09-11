@@ -140,3 +140,14 @@ let num = Number(strNum);
 console.log(num + 50); // Output: 300
 let name ;
 console.log(name);
+function hello (){
+    console.log ("hello");
+}
+setTimeout(hello,2000)//2000 = 2 second
+console.log("one");
+console.log("two");
+setTimeout(() => {
+    console.log("hello");
+}, 2000); // 2000 = 2 second
+console.log("three");
+console.log("four");
