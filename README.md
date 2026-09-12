@@ -161,3 +161,7 @@ if(age >= 12){
 }else{
     console.log("child");
 }
+
+function getData(dataId){
+    console.log("data " + dataId);
+}
