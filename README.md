@@ -159,7 +159,7 @@ if(age >= 12){
         console.log("middle");
     }
 }else{
-    console.log("child");
+    console.log("Child");
 }
 
 function getData(dataId){
