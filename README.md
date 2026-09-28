@@ -115,7 +115,7 @@ const arrowMultiplication = (a,b) => {
 // Create variables for your name, age, and city and print them.
 
 let name  = "John Doe";
-let age = 28;
+let age = 30;
 let City = "New York";
 console.log(name,age,City);
 // Create variables using let, const, and var. Explain the difference through a small example.
