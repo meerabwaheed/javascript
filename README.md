@@ -1,4 +1,4 @@
-let num1 = 44;
+let num1 = 45;
 let num2 = 55;
 
 let sum = num1 + num2;
